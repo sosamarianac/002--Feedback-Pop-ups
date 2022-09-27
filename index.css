@@ -19,6 +19,9 @@ body {
     justify-content: flex-start;
     align-items: center;
     border-radius: 20px;
+    box-shadow: 7px 13px 17px 1px rgba(219,213,213,0.75);
+    -webkit-box-shadow: 7px 13px 17px 1px rgba(219,213,213,0.75);
+    -moz-box-shadow: 7px 13px 17px 1px rgba(219,213,213,0.75);
 }
 .close-cont {
     width: 90%;
